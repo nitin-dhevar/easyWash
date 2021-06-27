@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "1047019549912",
+    "project_id": "laundry-system-395f8",
+    "storage_bucket": "laundry-system-395f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047019549912:android:41caca4903869b55a693ad",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047019549912-0dtn1jknu2dpuv5sd779f68ua5mq5ir0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.application",
+            "certificate_hash": "afe6fa2722dac0a73de7f1e4922b433b582a01fe"
+          }
+        },
+        {
+          "client_id": "1047019549912-gmhbb0215cj6s6slpkipkf9j66p0edq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJROskJPDIh6ddjw2DgeCbTPg6rjfVwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047019549912-gmhbb0215cj6s6slpkipkf9j66p0edq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047019549912:android:fe74d939c274c293a693ad",
+        "android_client_info": {
+          "package_name": "com.example.my_easy_washapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047019549912-koouon94rtjk5lnvv8k3mpl1h7kaafuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_easy_washapp",
+            "certificate_hash": "800f0e31dadcec31007b128f0de40b8a00fbe1dd"
+          }
+        },
+        {
+          "client_id": "1047019549912-pp8ssk3fddr1681vmibb7ue1kqb5tsqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_easy_washapp",
+            "certificate_hash": "afe6fa2722dac0a73de7f1e4922b433b582a01fe"
+          }
+        },
+        {
+          "client_id": "1047019549912-gmhbb0215cj6s6slpkipkf9j66p0edq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJROskJPDIh6ddjw2DgeCbTPg6rjfVwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047019549912-gmhbb0215cj6s6slpkipkf9j66p0edq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047019549912:android:512693efe2ae319fa693ad",
+        "android_client_info": {
+          "package_name": "io.instamobile.flutter.login.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047019549912-gmhbb0215cj6s6slpkipkf9j66p0edq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJROskJPDIh6ddjw2DgeCbTPg6rjfVwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047019549912-gmhbb0215cj6s6slpkipkf9j66p0edq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
